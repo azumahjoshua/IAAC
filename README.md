@@ -4,4 +4,4 @@ Infrastructure as code (IaC) is an approach to managing and provisioning IT infr
 
 ## Automating setting up a website using vagrant provisoning
 
-![](./Screenshot1.png)
+(./Screenshot1.png)
