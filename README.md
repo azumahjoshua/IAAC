@@ -9,4 +9,4 @@ In this project we provisoning two project.
 
 ## Automating setting up a website using vagrant provisoning
 
-(./Screenshot1.png)
+![](./Screenshot1.png)
