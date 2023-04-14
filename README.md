@@ -7,6 +7,14 @@ In this project we provisoning two project.
 - static website
 - wordpress website
 
-## Automating setting up a website using vagrant provisoning
+## Automate setting up a static website using vagrant provisoning
 
 ![](./Screenshot1.png)
+
+## Automate setting up a wordpress website using vagrant provisoning
+
+![](./Screenshot3.png)
+
+## Preview
+
+![](./Screenshot2.png)
