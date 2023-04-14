@@ -13,7 +13,7 @@ In this project we provisoning two project.
 
 ## Automate setting up a wordpress website using vagrant provisoning
 
-![](./Screenshot3.png)
+![](./Screenshot4.png)
 
 ## Preview
 
